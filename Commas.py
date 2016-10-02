@@ -1,4 +1,4 @@
-import random
+#Random period generator; adds a ton of periods to a periodless text 
 
 input = open('Input.txt', 'r').read()
 
