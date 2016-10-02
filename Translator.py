@@ -1,3 +1,6 @@
+#@Author: Christopher Zaremba
+#A script that calls the google translate api and translates English to Chinese(Traditional)
+
 import urllib.request
 import re
 file = open('C:\\Users\\Christopher\\Desktop\\Hello.txt', 'r') #Input Original Text
