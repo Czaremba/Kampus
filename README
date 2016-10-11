@@ -1,0 +1,12 @@
+This is my project for startup weekend york region. It transcribes long(hours) speech recordings into text. From that point it can summarize that text or translate it into another Language.
+
+This repository is only some parts of the project I worked on, as the full project is closed source(for commercial purposes, I'm selling the project with a few friends)
+
+Translator.py
+  This is the script I authored that utilizes the google translate api to translate the transcript into traditional chinese text.
+  
+Kommas.py
+  This is a script that adds random punctuation to text to get the summarizer to work properly(the summarizer algorithm requires punctuation and the transcribed text is punctuationless)
+  
+AI_Summarizer.py
+  This is the script that calls the text summarizer API from Algorithmia Servers
