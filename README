@@ -2,6 +2,7 @@ This is my project for startup weekend york region. It transcribes long(hours) s
 
 This repository is only some parts of the project I worked on, as the full project is closed source(for commercial purposes, I'm selling the project with a few friends)
 
+Scripts
 Translator.py
   This is the script I authored that utilizes the google translate api to translate the transcript into traditional chinese text.
   
