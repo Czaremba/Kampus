@@ -4,7 +4,7 @@ This repository is only some parts of the project I worked on, as the full proje
 
 Scripts
 Translator.py
-  This is the script I authored that utilizes the google translate api to translate the transcript into traditional chinese text.
+    This is the script I authored that utilizes the google translate api to translate the transcript into traditional chinese text.
   
 Kommas.py
   This is a script that adds random punctuation to text to get the summarizer to work properly(the summarizer algorithm requires punctuation and the transcribed text is punctuationless)
