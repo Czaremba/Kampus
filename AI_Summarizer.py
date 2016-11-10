@@ -1,3 +1,4 @@
+#@Author: Christopher Zaremba
 #A Simple script that implements Machine learning algorithms to summarize text
 
 import Algorithmia
